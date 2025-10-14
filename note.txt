@@ -1,0 +1,41 @@
+✅ Top 20 EDA Questions from Vaccination Dataset
+Which state has administered the highest number of total doses?
+
+What is the gap between first dose and second dose administration in each state?
+
+How many individuals have been vaccinated in total per state?
+
+What is the gender-wise distribution of doses administered (male vs female vs transgender)?
+
+Which age group (18–44, 45–60, 60+) received the most doses?
+
+How many individuals in the 18–44 age group have been vaccinated per state?
+
+What is the ratio of total doses administered to total individuals vaccinated?
+
+Which vaccine brand (Covaxin, Covishield, Sputnik V) is most used in each state?
+
+Which state reported the highest number of AEFI (adverse events)?
+
+Which states have the highest number of second doses administered?
+
+How many vaccination sessions and sites were held in each state?
+
+What is the average number of doses administered per session in each state?
+
+Are there any states where females received more doses than males?
+
+How many transgender individuals were vaccinated in each state?
+
+Which age group has the lowest second dose coverage?
+
+What is the daily trend of total doses administered across all states?
+
+Are the number of vaccination sessions increasing over time?
+
+What is the ratio of Covaxin to Covishield usage in each state?
+
+How many people are fully vaccinated (received both doses) vs partially vaccinated?
+
+Are there states showing a mismatch between total doses and individuals vaccinated?
+
